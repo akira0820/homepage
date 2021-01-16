@@ -28,16 +28,27 @@ div{
     color:black;
     background-image:url(li-bg-hover.jpg);
 }
-
-.box-1{
-    width:600px;
+.about{
     float:left;
+    
 }
-.box-2{
+.about_box-1{
+color:red;
+margin-left:0;
+width:500px;
+float:left;
+display:inline-block;
+
+
+}
+.about_box-2{
+    color:blue;
+    margin:0;
+    padding:0;
+    float:right;
+    width:300px;
+  
+}
+#foot_about{
     
-  margin:0;
-  padding:0;
-    width:20%;
-    
-    float:left;
 }
